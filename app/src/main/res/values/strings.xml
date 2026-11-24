@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Galería Privada</string>
+    <string name="profile_general">General</string>
+    <string name="profile_private">Privado</string>
+    <string name="search_hint">Buscar en este perfil...</string>
+    <string name="recent_images">Imágenes Recientes</string>
+    <string name="recent_videos">Videos Recientes</string>
+    <string name="recent_all">Todos los archivos recientes</string>
+    <string name="pinned_folders">Carpetas Fijadas</string>
+    <string name="see_all">Ver todas</string>
+    <string name="select_profile">Seleccionar Perfil</string>
+    <string name="create_profile">Crear Perfil</string>
+</resources>
